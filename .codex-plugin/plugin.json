@@ -12,5 +12,6 @@
     "developerName": "RateMySetup",
     "category": "Productivity"
   },
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "license": "MIT"
 }

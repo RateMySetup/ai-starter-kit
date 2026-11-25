@@ -79,4 +79,4 @@ Der Codex-Katalog liegt unter `.agents/plugins/marketplace.json` und enthält di
 
 Herkunft, Lizenzen, Änderungen und Prüfsummen aller übernommenen Dateien stehen in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Jede Lizenz der Originale gilt für deren Inhalte.
 
-Für die eigene Dokumentation und Konfiguration dieses Repositorys ist noch keine Lizenz festgelegt; bis dahin gelten alle Rechte als vorbehalten.
+Die eigenen Teile dieses Repositorys (Dokumentation, Manifeste, Kataloge) stehen unter der [MIT-Lizenz](LICENSE). Die übernommenen Skills unter `skills/` behalten ihre eigenen Lizenzen, siehe [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
