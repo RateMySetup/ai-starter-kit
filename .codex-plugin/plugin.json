@@ -1,0 +1,16 @@
+{
+  "name": "ai-starter-kit",
+  "version": "1.0.0",
+  "description": "Kuratiertes Starterpaket für Claude Code und Codex: Grilling, Playwright-Browsersteuerung und Dokumente zu Markdown.",
+  "author": {
+    "name": "RateMySetup"
+  },
+  "repository": "https://github.com/RateMySetup/ai-starter-kit",
+  "interface": {
+    "displayName": "AI Starter Kit",
+    "shortDescription": "Ein einfacher Einstieg in Claude Code und Codex",
+    "developerName": "RateMySetup",
+    "category": "Productivity"
+  },
+  "skills": "./skills/"
+}

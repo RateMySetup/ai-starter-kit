@@ -1,0 +1,61 @@
+{
+  "name": "ai-starter-kit",
+  "description": "Kuratierte Skills und Plugins für den Einstieg mit Claude Code und Codex.",
+  "owner": {
+    "name": "RateMySetup"
+  },
+  "plugins": [
+    {
+      "name": "ai-starter-kit",
+      "source": "./",
+      "description": "Starterpaket: Grilling, Playwright-Browsersteuerung, Dokumente zu Markdown."
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers",
+        "sha": "22f0b463e7a5e579904dd6211a520321035526f7"
+      },
+      "description": "Original-Plugin (v7.0.2): planen, testen, Fehler suchen, Code-Review."
+    },
+    {
+      "name": "caveman",
+      "source": {
+        "source": "github",
+        "repo": "JuliusBrussee/caveman",
+        "sha": "47c61be2d10a354f0c5cbe2b90959d24c06b16c6"
+      },
+      "description": "Original-Plugin (v4.2.0): kurze, knappe Antworten."
+    },
+    {
+      "name": "skill-creator",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/claude-plugins-official.git",
+        "path": "plugins/skill-creator",
+        "sha": "6985b2d88dc08b4a0d202f5f0301f02e360b9cb1"
+      },
+      "description": "Original-Plugin von Anthropic: eigene Skills erstellen, verbessern und testen."
+    },
+    {
+      "name": "impeccable",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pbakaus/impeccable.git",
+        "path": "plugin",
+        "sha": "9e460a87ef338ee9d12c7beed8fedc597a5af5f7"
+      },
+      "description": "Original-Plugin: Oberflächen gestalten, prüfen und verfeinern."
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "sha": "8db36338810d0942567b97ce439affd1619fcf31"
+      },
+      "description": "Original-Plugin (v2.15.0): Design-Werte und HTML-Präsentationen (slides)."
+    }
+  ]
+}
